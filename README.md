@@ -4,7 +4,7 @@
 
 $ clone repo https://github.com/rajinikumar/node-mongo-crud.git
 
-$ cd node-mongo-crud
+$ cd {root-directory}
 
 $ npm install
 
